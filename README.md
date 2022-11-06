@@ -51,3 +51,9 @@ issues in the code, please open an issue on the GitHub
 project.
 
 You can find other resources at https://grokkingsimplicity.com
+
+--- 
+'Grokking Simplicity' 책의 한국어판 제목은 [쏙쏙 들어오는 함수형 코딩](http://www.yes24.com/Product/Goods/108748841)입니다.
+
+
+> 이 저장소는 위 책에서 제공하는 소스 코드들이 보관되어 있고, 이 책을 읽으면서 연습문제 풀이한 부분이나 개인적으로 이해를 돕기 위한 부분을 따로 추가하면서 학습하기 위한 목적의 저장소입니다.
